@@ -1,4 +1,5 @@
-Scenario
+### Scenario :
+
 The following scenario is a drastically simplified version of a medical scenario, but nevertheless you will need to use systematic principles and processes as involved in creating a solution for a realistic real-world scenario.
 You have been asked to create a fuzzy inference system (FIS) to provide advice to family doctors that they can use to assess patients when they come in with an illness, to establish whether the patient needs to be
 sent to hospital for emergency attention. In this very simple scenario, the FIS will take three inputs,Temperature, Headache and Patient-age, which will be represented as three linguistic variables, and produce
