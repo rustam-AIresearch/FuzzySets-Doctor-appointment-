@@ -9,7 +9,6 @@ The output should be quantified in the range of 0 to 100, with 0 meaning the pat
 
 
 ### Cases:
-
-Case 1 - Where all input values are numbers (Type-1 Fuzzy Sets)
-\n Case 2 - Where all input values are intervals (Type-2 Fuzzy Sets)
+Case 1 - Where all input values are numbers (Type-1 Fuzzy Sets) <br />
+Case 2 - Where all input values are intervals (Type-2 Fuzzy Sets) <br />
 
